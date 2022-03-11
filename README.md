@@ -4,14 +4,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kmustafa0&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmustafa0&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=kmustafa0&theme=nord" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmustafa0&theme=tokyonight" widht="%100" height="150px" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmustafa0&theme=tokyonight" widht="%100" height="150px" alt="stats" /> <!--Thanks https://git.io/streak-stats-->
 </details>
 
 <br/> 
 <br/>   
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmustafa0&theme=elegant)](https://git.io/streak-stats)
-<br/> 
 
 
 <details align="center">
