@@ -8,9 +8,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=kmustafa0&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmustafa0&count_private=true&show_icons=true&theme=github_dark" />
-</a>
-
 <br/> 
 <br/>   
 
