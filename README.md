@@ -11,7 +11,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmustafa0&theme=elegant)](https://git.io/streak-stats)
 <br/> 
 
-## 📚 Öğrenmekte Olduğum & Öğrenmek İstediklerim
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
