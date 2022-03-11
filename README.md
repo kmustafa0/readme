@@ -12,6 +12,13 @@
 <br/> 
 
 ## 📚 Öğrenmekte Olduğum & Öğrenmek İstediklerim
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+</code>
+</details>
 
 <code><img height="75" src="https://user-images.githubusercontent.com/92370453/147918981-e84ce704-bf8f-4a5d-a044-1d5ad991b2d0.png"></code>
 <code><img height="75" src="https://user-images.githubusercontent.com/92370453/147919361-d76229bf-84dc-4f5a-bfd5-f6b9f1ff63ab.png"></code>
