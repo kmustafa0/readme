@@ -13,7 +13,7 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
-     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+     <code><img height="30" src="https://cdn.discordapp.com/attachments/951065936889266186/952324964575498320/kisspng-plain-old-java-object-programming-language-compute-5b2b6405e12576.0645579915295703099222.png"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
    
