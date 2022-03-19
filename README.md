@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m Mustafa
+- <i> Currently:</i> Computer Programming at Eskisehir Osmangazi University
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kmustafa0&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
