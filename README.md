@@ -24,11 +24,11 @@ I’m Mustafa
 </details>
 
 
-## My Contribution Graph
+<!--## My Contribution Graph
 
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kmustafa0&theme=elegant" /></div>
 <br/> 
- 
+ -->
  ## Snake Gif (Thanks to @dkarakay)
 <div  align="center"> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
 
