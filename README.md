@@ -35,10 +35,11 @@ I’m Mustafa
 <br/>
 
 ## 📫 Benimle iletişime geç & Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/mustafakole-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kolemustafa/)  
+[![Linkedin Badge](https://img.shields.io/badge/mustafakole-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kolemustafa/) 
+<br>
+<br>
 [![İnstagram Badge](https://img.shields.io/badge/mmustafakole-FOLLOW%20ON%20INSTAGRAM-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/mmustafakole/)
-
-  
+<br>
 ![](https://komarev.com/ghpvc/?username=kmustafa0&color=blue)
 
 
