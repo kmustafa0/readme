@@ -41,7 +41,12 @@ I’m Mustafa
 <br>
 [![İnstagram Badge](https://img.shields.io/badge/mmustafakole-FOLLOW%20ON%20INSTAGRAM-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/mmustafakole/)
 <br>
-![](https://komarev.com/ghpvc/?username=kmustafa0&color=blue)
+<br>
+![mail](https://img.shields.io/badge/mustafa.kole%40outlook.com-SEND%20MAIL-blue)
+<a href="mailto:mustafa.kole@outlook.com"></a>
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=kmustafa0&color=orange)
 
 
 <!--
