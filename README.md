@@ -31,8 +31,9 @@ I’m Mustafa
 <br/> 
  -->
  ## Snake Gif (Thanks to @dkarakay)
+<!--
 <div  align="center"> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
-
+-->
 <br/>
 
 ## 📫 Benimle iletişime geç & Connect with me:
