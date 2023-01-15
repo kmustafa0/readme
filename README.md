@@ -30,11 +30,10 @@ I’m Mustafa
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kmustafa0&theme=elegant" /></div>
 <br/> 
  -->
-<!--
-## Snake Gif ()
+ 
+### Snake eating my contribution graph
+![snake gif](https://github.com/kmustafa0/kmustafa0/blob/output/github-contribution-grid-snake.gif)
 
-<div  align="center"> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
--->
 <br/>
 
 ## 📫 Benimle iletişime geç & Connect with me:
