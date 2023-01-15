@@ -30,7 +30,7 @@ I’m Mustafa
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kmustafa0&theme=elegant" /></div>
 <br/> 
  -->
- ## Snake Gif (Thanks to @dkarakay)
+ ## Snake Gif ()
 <!--
 <div  align="center"> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
 -->
