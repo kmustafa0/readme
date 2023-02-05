@@ -15,28 +15,23 @@ I’m Mustafa
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
-  <code><img height="30" src="https://cdn.discordapp.com/attachments/951065936889266186/952324964575498320/kisspng-plain-old-java-object-programming-language-compute-5b2b6405e12576.0645579915295703099222.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react" />
+  </a>
+</p>
    
 
 </code>
 </details>
-
-
-<!--## My Contribution Graph
-
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kmustafa0&theme=elegant" /></div>
-<br/> 
- -->
  
 ### Snake eating my contribution graph
 ![snake gif](https://github.com/kmustafa0/kmustafa0/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
 
-## 📫 Benimle iletişime geç & Connect with me:
+## 📫 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/mustafakole-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kolemustafa/) 
 <br>
 <br>
@@ -48,19 +43,3 @@ I’m Mustafa
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=kmustafa0&color=orange)
-
-
-<!--
-**kmustafa0/kmustafa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-⚡ Fun Fact
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
