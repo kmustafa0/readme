@@ -2,9 +2,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Currently:</i> Computer Programming at Eskisehir Osmangazi University
 <p style="font-weight: bold; font-size: 18px">GitHub Statistics</p>
-<img src="https://github-readme-stats.vercel.app/api?username=kmustafa0&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kmustafa0&show_icons=true&theme=radical" width="%100" height="150px" alt="stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmustafa0&layout=compact&theme=tokyonight" width="%100" height="170px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmustafa0&layout=compact&theme=radical" width="%100" height="170px" alt="stats" />
  <!--Thanks https://git.io/streak-stats-->
 
 <br/> 
@@ -29,3 +29,6 @@
 <a href="mailto:mustafa.kole@outlook.com"></a>
 
 ![](https://komarev.com/ghpvc/?username=kmustafa0&color=orange)
+
+
+<!--![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kmustafa0&repo=kmustafa0&cache_seconds=86400&theme=radical&show_owner=true)-->
