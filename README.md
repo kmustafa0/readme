@@ -10,7 +10,7 @@
 <br/> 
 
 <p style="font-weight: bold; font-size: 18px">Languages and Tools</p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,github,netlify&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,github,netlify&perline=4&theme=dark">
 
 <br/> 
 
