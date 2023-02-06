@@ -28,7 +28,11 @@
 ![mail](https://img.shields.io/badge/mustafa.kole%40outlook.com-SEND%20MAIL-blue)
 <a href="mailto:mustafa.kole@outlook.com"></a>
 
-![](https://komarev.com/ghpvc/?username=kmustafa0&color=orange)
+<!--![](https://komarev.com/ghpvc/?username=kmustafa0&color=orange)-->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kmustafa0/count.svg" />
+</p>
 
 
 <!--![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kmustafa0&repo=kmustafa0&cache_seconds=86400&theme=radical&show_owner=true)-->
