@@ -15,7 +15,8 @@
 <br/> 
 
 ### Snake eating my contribution graph
-![snake gif](https://github.com/kmustafa0/kmustafa0/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kmustafa0/kmustafa0/blob/output/github-contribution-grid-snake.svg
+)
 
 <br/>
 
