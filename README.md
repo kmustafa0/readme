@@ -25,8 +25,9 @@
 
 [![İnstagram Badge](https://img.shields.io/badge/mmustafakole-FOLLOW%20ON%20INSTAGRAM-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/mmustafakole/)
 
-![mail](https://img.shields.io/badge/mustafa.kole%40outlook.com-SEND%20MAIL-blue)
-<a href="mailto:mustafa.kole@outlook.com"></a>
+[![Twitter Badge](https://img.shields.io/badge/mustafakole0-FOLLOW%20ON%20TWITTER-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/mustafakole0/)
+
+[![Gmail Badge](https://img.shields.io/badge/mustafakolemst%40gmail.com-Send%20Mail-blue)](mailto:mustafakolemst@gmail.com)
 
 <!--![](https://komarev.com/ghpvc/?username=kmustafa0&color=orange)-->
 <p align="center"> 
