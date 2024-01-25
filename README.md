@@ -11,7 +11,7 @@
 <br/>
 
 <p style="font-weight: bold; font-size: 18px">Languages and Tools</p>
-    <img src="https://skillicons.dev/icons?i=js,react,php,mysql,git,&perline=5&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,php,mysql,git,&perline=5&theme=dark">
 
 ## 📫 Connect with me:
 
